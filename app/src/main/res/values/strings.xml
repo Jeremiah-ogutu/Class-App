@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Class-Schedule</string>
+    <string name="app_student_login">Student Login</string>
+    <string name="app_teacher_login">Teacher Login</string>
+    <string name="app_not_member_student">Not a student?</string>
+    <string name="app_not_member_teacher">Not a teacher?</string>
+    <string name="app_signup">Sign Up!</string>
+    <string name="app_login">Login</string>
+    <string name="app_email">Email Address</string>
+    <string name="app_password">Password</string>
+    <string name="app_forgot_password">Forgot Password?</string>
 </resources>
