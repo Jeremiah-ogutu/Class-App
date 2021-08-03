@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ClassSchedule">
         <activity
+            android:name=".account.StudentSignInActivity"
+            android:exported="true" />
+        <activity
             android:name=".account.TeacherSignInActivity"
             android:exported="true" />
         <activity android:name=".SplashActivity">
